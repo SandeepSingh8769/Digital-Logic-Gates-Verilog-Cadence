@@ -1,1 +1,1 @@
-
+This repository contains the design and functional verification of fundamental digital logic gates using Verilog HDL. Each gate is implemented at RTL level and simulated in Cadence environment with dedicated testbenches and waveform analysis.
